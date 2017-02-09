@@ -1,2 +1,5 @@
-# hello-world
-A hello-world program and my first time using github
+#Hey. I'm Jon and I'm doing stuff
+
+More comments to be inserted in the future
+Maybe
+Okay probably not
